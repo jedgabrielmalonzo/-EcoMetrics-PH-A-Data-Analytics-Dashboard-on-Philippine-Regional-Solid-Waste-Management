@@ -11,11 +11,11 @@ EcoMetrics PH is a diagnostic data analytics environment designed to evaluate, v
 🎯 Project Objectives
 The primary goal is to address visibility failures in waste tracking by answering five key research questions:
 
-    Which regions/provinces are the primary drivers of waste generation?
-    What is the current gap between waste generation and successful diversion?
-    Does "Segregation at Source" directly correlate with higher collection efficiency?
-    Are there significant data anomalies or reporting discrepancies in provincial records?
-    Where do the most significant statistical contradictions exist?
+    1. Which regions/provinces are the primary drivers of waste generation?
+    2. What is the current gap between waste generation and successful diversion?
+    3. Does "Segregation at Source" directly correlate with higher collection efficiency?
+    4. Are there significant data anomalies or reporting discrepancies in provincial records?
+    5. Where do the most significant statistical contradictions exist?
 
 📊 Data Source
 The analytical asset utilized is the official Consolidated Assessment of 2025 Regional SWM Data provided by the Department of Environment and Natural Resources (DENR).
