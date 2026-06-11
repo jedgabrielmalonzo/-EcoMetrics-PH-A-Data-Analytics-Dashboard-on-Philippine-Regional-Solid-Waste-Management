@@ -1,4 +1,5 @@
-EcoMetrics PH: 2025 Philippine Solid Waste Management Dashboard
+*EcoMetrics PH: 2025 Philippine Solid Waste Management Dashboard*
+
 EcoMetrics PH is a diagnostic data analytics environment designed to evaluate, validate, and visualize the operational and statistical realities of the 2025 Philippine regional solid waste pipelines. By engineering an analytical dashboard, this project helps administrative bodies optimize localized resource allocation, uncover deep compliance gaps, and pinpoint systemic administrative breakdowns.
 👥 Authors
 
